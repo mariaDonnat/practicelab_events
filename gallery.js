@@ -1,4 +1,7 @@
-/*Name this external file gallery.js*/
+/*
+Ma.Donna Rose M. Olidana 2ITG
+Name this external file gallery.js
+*/
 
 function upDate(previewPic){
        /* In this function you should 
